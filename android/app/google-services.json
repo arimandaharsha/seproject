@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "534840396002",
+    "project_id": "ar-interior-6d6c5",
+    "storage_bucket": "ar-interior-6d6c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534840396002:android:5247ea1391eca72ca3f6bb",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_seprojrct_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMEP8zyFyupQyDyc9wCKHC_Q6dHy6LVFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534840396002:android:06906dda445919cba3f6bb",
+        "android_client_info": {
+          "package_name": "com.example.se_arinterior_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMEP8zyFyupQyDyc9wCKHC_Q6dHy6LVFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534840396002:android:dfd73420540ef0bea3f6bb",
+        "android_client_info": {
+          "package_name": "com.example.seproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMEP8zyFyupQyDyc9wCKHC_Q6dHy6LVFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
