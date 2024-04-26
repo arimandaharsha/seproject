@@ -1,10 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
-import 'package:seproject/features/app/pages/products_grid_view.dart';
 import 'package:seproject/features/app/splash/splash_screen.dart';
-import 'features/app/pages/product_upload_page.dart';
 import 'features/user_auth/pages/login_page.dart';
-import 'firebase_options.dart';
 
 Future main() async {
   WidgetsFlutterBinding.ensureInitialized();
